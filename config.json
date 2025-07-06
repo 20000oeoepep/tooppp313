@@ -12,13 +12,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "[⚜️] 𝓑𝓸𝓽 𝓙𝓡𝓣 [🔱] » 𝐌𝐨𝐦𝐨: 0396049649",
+    "BOTNAME": "[⚜️] 𝓑𝓸𝓽 𝓙𝓡𝓣 [🔱] » 𝐌𝐨𝐦𝐨: 100015903097543",
     "PREFIX": "!",
     "ADMINBOT": [
-        "UIDFacebook"
+        "100015903097543"
     ],
     "NDH": [
-        "UIDFacebook"
+        "100015903097543"
     ],
     "DATABASE": {
         "sqlite": {
